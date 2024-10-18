@@ -109,7 +109,7 @@ fun Greeting(name: String, modifier: Modifier) {
         modifier = modifier
     )
 }
-
+//Mendefinisikan fungsi komposisi Greeting yang menerima parameter name dan modifier.
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
