@@ -53,7 +53,7 @@ fun BasicCompose(haris: Modifier = Modifier){
         modifier = Modifier.fillMaxSize(),
         horizontalAlignment = Alignment.CenterHorizontally,
     ) {
-
+//Menambahkan pusat alignment secara vertikal dan horizontal pada Column
 
 
 
