@@ -42,7 +42,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//Menyelesaikan struktur kode dengan menutup semua blok yang terbuka
 @Preview(showBackground = true)
 ////menambahkan fungsi @Preview untuk menampilkan komponen BasicCompose dengan latar belakang di dalam editor
 @Composable
