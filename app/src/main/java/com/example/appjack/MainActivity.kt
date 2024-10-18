@@ -81,7 +81,7 @@ fun BasicCompose(haris: Modifier = Modifier){
             color = Color.Blue,
             fontWeight = FontWeight.Bold
             )
-
+//
         Text(text = "Haris Shihab Dzul Firdausi",
             fontSize = 25.sp,
             color = Color.Blue,
