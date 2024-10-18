@@ -117,3 +117,4 @@ fun GreetingPreview() {
         Greeting("Android", modifier = Modifier)
     }
 }
+//Mendefinisikan fungsi preview GreetingPreview untuk menampilkan pratinjau komposisi Greeting
