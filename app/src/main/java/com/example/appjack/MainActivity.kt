@@ -93,7 +93,7 @@ fun BasicCompose(haris: Modifier = Modifier){
             color = Color.Black,
             fontWeight = FontWeight.Bold
             )
-
+//Menambahkan komponen Text untuk menampilkan nomor "20220140015"
         Image(
             painter = painterResource(id = R.drawable.haris),
             contentDescription = null,
