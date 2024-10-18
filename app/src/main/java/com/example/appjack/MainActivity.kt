@@ -47,7 +47,7 @@ class MainActivity : ComponentActivity() {
 ////menambahkan fungsi @Preview untuk menampilkan komponen BasicCompose dengan latar belakang di dalam editor
 @Composable
 fun BasicCompose(haris: Modifier = Modifier){
-
+//Mengganti nama parameter haris menjadi modifier pada fungsi BasicCompose,
     Column(
         verticalArrangement = Arrangement.Center,
         modifier = Modifier.fillMaxSize(),
