@@ -87,7 +87,7 @@ fun BasicCompose(haris: Modifier = Modifier){
             color = Color.Blue,
             fontFamily = FontFamily.Default
             )
-
+//Menambahkan komponen Text untuk menampilkan teks "Haris Shihab Dzul Firdausi"
         Text(text = "20220140015",
             fontSize = 25.sp,
             color = Color.Black,
