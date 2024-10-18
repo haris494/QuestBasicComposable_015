@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
             AppjackTheme  {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     BasicCompose(
-
+//Menginisialisasi MainActivity dengan ComponentActivity, dan dalam fungsi onCreate
                         haris = Modifier.padding(innerPadding)
                         //Mengganti parameter haris menjadi modifier pada fungsi BasicCompose
                     )
