@@ -101,7 +101,7 @@ fun BasicCompose(haris: Modifier = Modifier){
         )
     }
 }
-
+//Menambahkan komponen Image untuk menampilkan gambar
 @Composable
 fun Greeting(name: String, modifier: Modifier) {
     Text(
