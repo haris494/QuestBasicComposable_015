@@ -75,7 +75,7 @@ fun BasicCompose(haris: Modifier = Modifier){
             contentDescription = null,
             modifier = Modifier.size(250.dp)
         )
-
+//Menambahkan penggunaan Image dengan parameter painter
         Text(text = "Nama",
             fontSize = 30.sp,
             color = Color.Blue,
