@@ -44,7 +44,7 @@ class MainActivity : ComponentActivity() {
 }
 
 @Preview(showBackground = true)
-//menambahkan fungsi @Preview untuk menampilkan komponen BasicCompose dengan latar belakang di dalam editor
+////menambahkan fungsi @Preview untuk menampilkan komponen BasicCompose dengan latar belakang di dalam editor
 @Composable
 fun BasicCompose(haris: Modifier = Modifier){
 
