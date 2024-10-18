@@ -63,7 +63,7 @@ fun BasicCompose(haris: Modifier = Modifier){
             color = Color.Green,
             fontWeight = FontWeight.Bold
             )
-
+//Mengganti haris menjadi modifier untuk mengikuti konvensi Compose.
         Text(text = "Ini adalah halaman login",
         fontSize = 25.sp,
         color = Color.Blue,
