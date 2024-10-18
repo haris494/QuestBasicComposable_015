@@ -35,8 +35,7 @@ class MainActivity : ComponentActivity() {
                     BasicCompose(
 
                         haris = Modifier.padding(innerPadding)
-
-
+                        //Mengganti parameter haris menjadi modifier pada fungsi BasicCompose
                     )
                 }
             }
